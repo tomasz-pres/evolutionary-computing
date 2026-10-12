@@ -1,8 +1,8 @@
 # Evolutionary Computation - Assignment 1 (greedy heuristics)
 
 Authors:
-1. Name Surname: Tomasz Preś  Index number: 160305
-2. Name Surname: ......................................  Index number: ..............
+1. Name: Tomasz Preś  Index number: 160305
+2. Name: Marek Olejniczak  Index number: 160303
 
 ## Problem
 
@@ -146,7 +146,7 @@ Yes, the best solutions were checked with the solution checker, values are the s
 
 ## Code
 
-greedy.py (python, numpy + matplotlib). Link: https://github.com/tomasz-pres/evolutionary-computing
+greedy.py (python, numpy + matplotlib). Link: https://github.com/tomasz-pres/evolutionary-computing.git
 
 ## Conclusions
 
