@@ -298,7 +298,7 @@ struct RunResult { long long value; double us; long long evals; };
 double g_ls_us = 0;  // time of the local search part of the last run (without the starting solution)
 
 int main(int argc, char **argv) {
-    string dataDir = "../lab1", outDir = "results";
+    string dataDir = "../data", outDir = "results";
     int runs = 200; unsigned long long seed = 42;
     for (int i = 1; i < argc; i++) {
         string a = argv[i];

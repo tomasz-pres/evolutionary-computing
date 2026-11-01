@@ -1,0 +1,8 @@
+#!/bin/sh
+# Usage: ./run.sh [DATA_DIR]   (default ../data)
+set -e
+cd "$(dirname "$0")"
+DATA="${1:-../data}"
+g++ -O2 -std=c++17 -o cand cand.cpp
+./cand --data-dir "$DATA" --out results
+python3 report.py --data-dir "$DATA"

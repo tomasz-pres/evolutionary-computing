@@ -15,7 +15,7 @@ SEED = 42
 
 # data
 def load_instance(name):
-    data = np.loadtxt(ROOT / f"{name}.csv", delimiter=";", dtype=np.int64)
+    data = np.loadtxt(ROOT.parent / "data" / f"{name}.csv", delimiter=";", dtype=np.int64)
     return data[:, :2].astype(float), data[:, 2]
 
 

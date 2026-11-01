@@ -113,7 +113,7 @@ def checker(tour, xy, cost, k):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--data-dir", default=str(ROOT.parent / "lab1"))
+    ap.add_argument("--data-dir", default=str(ROOT.parent / "data"))
     ap.add_argument("--results", default=str(ROOT / "results"))
     ap.add_argument("--no-pdf", action="store_true")
     args = ap.parse_args()
