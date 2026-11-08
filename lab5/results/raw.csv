@@ -1,0 +1,801 @@
+instance,method,run,value,time_us,evals,ls_time_us
+TSPA,"Steepest, edges, random start",0,76757,3544.67,2108700,3543
+TSPA,"Steepest, edges, random start",1,76205,3305.96,1975050,3304.46
+TSPA,"Steepest, edges, random start",2,77383,3373.83,2019600,3372.33
+TSPA,"Steepest, edges, random start",3,76194,3162.83,1900800,3161.33
+TSPA,"Steepest, edges, random start",4,76112,3388.29,2034450,3386.88
+TSPA,"Steepest, edges, random start",5,74956,3172.21,1900800,3170.75
+TSPA,"Steepest, edges, random start",6,77361,3086.46,1841400,3085
+TSPA,"Steepest, edges, random start",7,77144,3317.04,2004750,3315.58
+TSPA,"Steepest, edges, random start",8,75229,3418.46,2049300,3417
+TSPA,"Steepest, edges, random start",9,75871,3388.58,2034450,3385
+TSPA,"Steepest, edges, random start",10,75635,3411.83,2049300,3410.33
+TSPA,"Steepest, edges, random start",11,76885,3062.83,1811700,3061.38
+TSPA,"Steepest, edges, random start",12,75117,3245.83,1945350,3244.42
+TSPA,"Steepest, edges, random start",13,77229,3279.62,1960200,3278.17
+TSPA,"Steepest, edges, random start",14,75862,3247.21,1915650,3245.75
+TSPA,"Steepest, edges, random start",15,76491,3575.92,2153250,3574.46
+TSPA,"Steepest, edges, random start",16,77111,3230.21,1945350,3228.71
+TSPA,"Steepest, edges, random start",17,74756,3187.04,1915650,3185.62
+TSPA,"Steepest, edges, random start",18,76349,2964.96,1782000,2963.5
+TSPA,"Steepest, edges, random start",19,78491,3211.88,1915650,3210.42
+TSPA,"Steepest, edges, random start",20,76249,3262.67,1945350,3261.25
+TSPA,"Steepest, edges, random start",21,77802,3225.71,1915650,3224.08
+TSPA,"Steepest, edges, random start",22,75860,3430.33,2049300,3428.83
+TSPA,"Steepest, edges, random start",23,76998,3053.46,1826550,3052.04
+TSPA,"Steepest, edges, random start",24,79054,3290.38,1975050,3288.96
+TSPA,"Steepest, edges, random start",25,76703,3408.96,2049300,3407.5
+TSPA,"Steepest, edges, random start",26,76383,3398.79,2049300,3397.38
+TSPA,"Steepest, edges, random start",27,76360,3067.54,1841400,3066.12
+TSPA,"Steepest, edges, random start",28,74385,3375.08,2004750,3373.67
+TSPA,"Steepest, edges, random start",29,75735,3401.71,1989900,3400.21
+TSPA,"Steepest, edges, random start",30,77335,3515.88,2064150,3514.42
+TSPA,"Steepest, edges, random start",31,74641,3347,2004750,3345.38
+TSPA,"Steepest, edges, random start",32,75589,3547.83,2138400,3546.42
+TSPA,"Steepest, edges, random start",33,76731,3275.08,1975050,3273.62
+TSPA,"Steepest, edges, random start",34,78472,3104.71,1856250,3103.25
+TSPA,"Steepest, edges, random start",35,75683,3338,2004750,3336.5
+TSPA,"Steepest, edges, random start",36,77770,3406.58,2049300,3405.12
+TSPA,"Steepest, edges, random start",37,76964,3272.62,1975050,3271.17
+TSPA,"Steepest, edges, random start",38,75789,3045.96,1826550,3044.5
+TSPA,"Steepest, edges, random start",39,77298,3191.04,1915650,3189.58
+TSPA,"Steepest, edges, random start",40,77696,3221.46,1930500,3220.04
+TSPA,"Steepest, edges, random start",41,76548,3106.62,1871100,3105.12
+TSPA,"Steepest, edges, random start",42,75803,3558.83,2138400,3557.38
+TSPA,"Steepest, edges, random start",43,76801,3189.88,1915650,3188.46
+TSPA,"Steepest, edges, random start",44,74375,3456.46,2064150,3455
+TSPA,"Steepest, edges, random start",45,75682,3389.12,2034450,3387.62
+TSPA,"Steepest, edges, random start",46,75916,3482.96,2079000,3481.54
+TSPA,"Steepest, edges, random start",47,76642,3501.08,2108700,3499.67
+TSPA,"Steepest, edges, random start",48,79812,3391.04,1945350,3389.58
+TSPA,"Steepest, edges, random start",49,76312,4124.08,1915650,4122.46
+TSPA,"Steepest, edges, random start",50,76191,5224.38,2064150,5222.54
+TSPA,"Steepest, edges, random start",51,75041,4946.92,2049300,4945.17
+TSPA,"Steepest, edges, random start",52,76646,3788.25,1900800,3786.54
+TSPA,"Steepest, edges, random start",53,76260,3527.33,2064150,3525.71
+TSPA,"Steepest, edges, random start",54,74546,3647.12,1900800,3645.54
+TSPA,"Steepest, edges, random start",55,77060,4250.25,1989900,4248.62
+TSPA,"Steepest, edges, random start",56,75317,5238.71,1989900,5237.25
+TSPA,"Steepest, edges, random start",57,78200,3808.83,1975050,3806.96
+TSPA,"Steepest, edges, random start",58,77053,3794.12,1945350,3792.33
+TSPA,"Steepest, edges, random start",59,77418,3514.58,1782000,3512.33
+TSPA,"Steepest, edges, random start",60,76714,3581.96,1871100,3580.17
+TSPA,"Steepest, edges, random start",61,73658,3738.42,1975050,3736.67
+TSPA,"Steepest, edges, random start",62,76155,3785.88,2004750,3784.17
+TSPA,"Steepest, edges, random start",63,76113,3628.67,1885950,3627
+TSPA,"Steepest, edges, random start",64,77142,3908.46,2079000,3906.75
+TSPA,"Steepest, edges, random start",65,76922,3341.92,1767150,3340.25
+TSPA,"Steepest, edges, random start",66,75779,3610.08,1900800,3608.46
+TSPA,"Steepest, edges, random start",67,74765,3928,2064150,3926.29
+TSPA,"Steepest, edges, random start",68,76932,3685.58,1960200,3683.92
+TSPA,"Steepest, edges, random start",69,76898,3322.75,1975050,3321.08
+TSPA,"Steepest, edges, random start",70,75377,3255.33,1945350,3253.83
+TSPA,"Steepest, edges, random start",71,77662,3222.42,1930500,3221
+TSPA,"Steepest, edges, random start",72,77101,3275.04,1945350,3273.54
+TSPA,"Steepest, edges, random start",73,76715,3463.12,2079000,3461.67
+TSPA,"Steepest, edges, random start",74,76222,3107.71,1871100,3106.25
+TSPA,"Steepest, edges, random start",75,75729,3207.67,1915650,3206.21
+TSPA,"Steepest, edges, random start",76,76459,3207.33,1915650,3205.88
+TSPA,"Steepest, edges, random start",77,76146,3167.38,1885950,3165.92
+TSPA,"Steepest, edges, random start",78,74915,3502.38,2093850,3500.92
+TSPA,"Steepest, edges, random start",79,75791,3039.54,1826550,3038.12
+TSPA,"Steepest, edges, random start",80,76030,3552.46,2138400,3550.96
+TSPA,"Steepest, edges, random start",81,75992,3200.83,1915650,3199.38
+TSPA,"Steepest, edges, random start",82,76122,2858.17,1707750,2856.71
+TSPA,"Steepest, edges, random start",83,77523,3162.42,1900800,3160.96
+TSPA,"Steepest, edges, random start",84,77509,3177.67,1900800,3176.08
+TSPA,"Steepest, edges, random start",85,77129,3163.75,1885950,3162.25
+TSPA,"Steepest, edges, random start",86,76210,3318.62,1989900,3317.17
+TSPA,"Steepest, edges, random start",87,77535,3304.33,1945350,3302.88
+TSPA,"Steepest, edges, random start",88,76535,3219.25,1930500,3217.54
+TSPA,"Steepest, edges, random start",89,77697,3611,2168100,3609.54
+TSPA,"Steepest, edges, random start",90,75166,3244.42,1930500,3242.92
+TSPA,"Steepest, edges, random start",91,76588,3318.12,1989900,3316.67
+TSPA,"Steepest, edges, random start",92,76827,3160.21,1900800,3158.71
+TSPA,"Steepest, edges, random start",93,75206,3358.75,1989900,3357.25
+TSPA,"Steepest, edges, random start",94,77046,3465.54,2064150,3464.08
+TSPA,"Steepest, edges, random start",95,74816,3564,2108700,3562.62
+TSPA,"Steepest, edges, random start",96,77266,3288.58,1930500,3287
+TSPA,"Steepest, edges, random start",97,75882,3674.21,2182950,3672.88
+TSPA,"Steepest, edges, random start",98,75399,3253.25,1945350,3251.75
+TSPA,"Steepest, edges, random start",99,77017,3189.25,1900800,3187.75
+TSPA,"Steepest, edges, random start",100,76145,3487.42,2093850,3485.96
+TSPA,"Steepest, edges, random start",101,75351,3252.5,1960200,3251
+TSPA,"Steepest, edges, random start",102,76106,3092.21,1841400,3090.71
+TSPA,"Steepest, edges, random start",103,76220,3581.58,2153250,3580.21
+TSPA,"Steepest, edges, random start",104,74276,3425,2064150,3423.58
+TSPA,"Steepest, edges, random start",105,74691,3351.58,2004750,3350.12
+TSPA,"Steepest, edges, random start",106,75901,3498.42,2093850,3496.92
+TSPA,"Steepest, edges, random start",107,74616,3442.42,2064150,3440.92
+TSPA,"Steepest, edges, random start",108,74584,3372.62,2019600,3371.17
+TSPA,"Steepest, edges, random start",109,77030,3260.08,1960200,3258.62
+TSPA,"Steepest, edges, random start",110,75161,3121.25,1871100,3119.79
+TSPA,"Steepest, edges, random start",111,77204,3002.79,1796850,3001.33
+TSPA,"Steepest, edges, random start",112,77039,3435.67,2064150,3434.25
+TSPA,"Steepest, edges, random start",113,75240,3192,1900800,3190.54
+TSPA,"Steepest, edges, random start",114,76184,3450.42,2034450,3448.96
+TSPA,"Steepest, edges, random start",115,76889,3483.46,2064150,3481.96
+TSPA,"Steepest, edges, random start",116,75055,3332.5,1975050,3331.04
+TSPA,"Steepest, edges, random start",117,75062,3440,1915650,3438
+TSPA,"Steepest, edges, random start",118,76205,3746.54,1945350,3744.75
+TSPA,"Steepest, edges, random start",119,74733,3625.5,2019600,3623.96
+TSPA,"Steepest, edges, random start",120,76975,3551.25,2004750,3549.42
+TSPA,"Steepest, edges, random start",121,76388,5855.38,1915650,5853.92
+TSPA,"Steepest, edges, random start",122,76493,3070.42,1811700,3068.92
+TSPA,"Steepest, edges, random start",123,74828,3388.12,2034450,3386.62
+TSPA,"Steepest, edges, random start",124,75631,3325.04,1975050,3323.58
+TSPA,"Steepest, edges, random start",125,76991,3368.38,2019600,3366.92
+TSPA,"Steepest, edges, random start",126,77185,3897.42,2286900,3895.96
+TSPA,"Steepest, edges, random start",127,76521,3223.33,1915650,3221.67
+TSPA,"Steepest, edges, random start",128,77048,3353.25,2004750,3351.79
+TSPA,"Steepest, edges, random start",129,76919,3353.25,1975050,3351.83
+TSPA,"Steepest, edges, random start",130,75208,3413.04,2034450,3411.5
+TSPA,"Steepest, edges, random start",131,75653,3340.42,2004750,3338.96
+TSPA,"Steepest, edges, random start",132,76662,3386.33,2034450,3384.83
+TSPA,"Steepest, edges, random start",133,75706,3152.96,1885950,3151.5
+TSPA,"Steepest, edges, random start",134,75736,3482.12,2093850,3480.67
+TSPA,"Steepest, edges, random start",135,75905,3167.42,1900800,3166
+TSPA,"Steepest, edges, random start",136,75580,3499.92,2108700,3498.46
+TSPA,"Steepest, edges, random start",137,77668,3380.42,2019600,3378.92
+TSPA,"Steepest, edges, random start",138,78496,3521.62,2108700,3520.17
+TSPA,"Steepest, edges, random start",139,77076,3372.75,2004750,3371.29
+TSPA,"Steepest, edges, random start",140,75275,3158.67,1856250,3157.21
+TSPA,"Steepest, edges, random start",141,74939,3298.08,1960200,3296.62
+TSPA,"Steepest, edges, random start",142,78646,3312.83,1989900,3311.42
+TSPA,"Steepest, edges, random start",143,74972,3363,2004750,3361.54
+TSPA,"Steepest, edges, random start",144,75871,3426.46,2049300,3424.96
+TSPA,"Steepest, edges, random start",145,77091,3337.71,1989900,3336.29
+TSPA,"Steepest, edges, random start",146,76655,3205.75,1915650,3204.29
+TSPA,"Steepest, edges, random start",147,75775,3366.75,2004750,3365.33
+TSPA,"Steepest, edges, random start",148,77695,3230.75,1945350,3229.29
+TSPA,"Steepest, edges, random start",149,76670,3413.75,2049300,3412.25
+TSPA,"Steepest, edges, random start",150,77176,3205.67,1930500,3204.25
+TSPA,"Steepest, edges, random start",151,76471,3575,2123550,3573.54
+TSPA,"Steepest, edges, random start",152,77737,3381.83,2019600,3380.38
+TSPA,"Steepest, edges, random start",153,77126,3375.38,2019600,3373.92
+TSPA,"Steepest, edges, random start",154,74403,3209.75,1930500,3208.29
+TSPA,"Steepest, edges, random start",155,75647,3376.67,2019600,3375.21
+TSPA,"Steepest, edges, random start",156,75917,3355.25,2019600,3353.58
+TSPA,"Steepest, edges, random start",157,75394,3262.12,1960200,3260.67
+TSPA,"Steepest, edges, random start",158,76154,3447.46,2064150,3446
+TSPA,"Steepest, edges, random start",159,78760,3331.88,1989900,3330.46
+TSPA,"Steepest, edges, random start",160,76872,3606.21,2168100,3604.79
+TSPA,"Steepest, edges, random start",161,74748,3014.12,1811700,3012.71
+TSPA,"Steepest, edges, random start",162,75604,3183.12,1900800,3181.67
+TSPA,"Steepest, edges, random start",163,76227,3159.17,1871100,3157.71
+TSPA,"Steepest, edges, random start",164,76040,3332.54,1945350,3331.12
+TSPA,"Steepest, edges, random start",165,75437,3322,1989900,3320.54
+TSPA,"Steepest, edges, random start",166,74963,3367.54,1989900,3366.08
+TSPA,"Steepest, edges, random start",167,74758,3605.75,2064150,3604.12
+TSPA,"Steepest, edges, random start",168,75396,3911.42,2064150,3909.79
+TSPA,"Steepest, edges, random start",169,77889,3763.54,1900800,3762.04
+TSPA,"Steepest, edges, random start",170,75003,4810.04,2390850,4808.46
+TSPA,"Steepest, edges, random start",171,76290,5394.17,2108700,5392.62
+TSPA,"Steepest, edges, random start",172,75542,6887.67,1796850,6886.17
+TSPA,"Steepest, edges, random start",173,76863,6214.79,1975050,6212.67
+TSPA,"Steepest, edges, random start",174,74508,3842.83,1989900,3840.5
+TSPA,"Steepest, edges, random start",175,75510,4019.38,1900800,4017.54
+TSPA,"Steepest, edges, random start",176,76549,5155.46,2004750,5153.67
+TSPA,"Steepest, edges, random start",177,76772,5224.83,2079000,5223.42
+TSPA,"Steepest, edges, random start",178,77104,6725.88,2079000,6724.12
+TSPA,"Steepest, edges, random start",179,75305,4437.67,1989900,4436
+TSPA,"Steepest, edges, random start",180,75465,4889.92,1900800,4888.33
+TSPA,"Steepest, edges, random start",181,76127,3982.71,1989900,3981.04
+TSPA,"Steepest, edges, random start",182,76165,9584.25,2004750,9582.58
+TSPA,"Steepest, edges, random start",183,73654,4891.08,1989900,4889.46
+TSPA,"Steepest, edges, random start",184,76513,5126.42,1989900,5124.79
+TSPA,"Steepest, edges, random start",185,75930,3539.83,1885950,3538.17
+TSPA,"Steepest, edges, random start",186,75771,4126.12,1975050,4124.62
+TSPA,"Steepest, edges, random start",187,76333,4008.08,2019600,4006.33
+TSPA,"Steepest, edges, random start",188,75159,4622.54,2034450,4621.08
+TSPA,"Steepest, edges, random start",189,73835,3537.92,1975050,3535.88
+TSPA,"Steepest, edges, random start",190,74807,3361.88,2004750,3360.25
+TSPA,"Steepest, edges, random start",191,77585,3132.88,1871100,3131.42
+TSPA,"Steepest, edges, random start",192,77580,3631.62,2168100,3630.21
+TSPA,"Steepest, edges, random start",193,75680,3333.17,1989900,3331.71
+TSPA,"Steepest, edges, random start",194,75103,3226.25,1871100,3224.79
+TSPA,"Steepest, edges, random start",195,78040,3263.5,1900800,3262.04
+TSPA,"Steepest, edges, random start",196,76971,2975.79,1782000,2974.33
+TSPA,"Steepest, edges, random start",197,75713,3173.96,1900800,3172.5
+TSPA,"Steepest, edges, random start",198,75402,3378.5,2019600,3377
+TSPA,"Steepest, edges, random start",199,76570,3215.96,1930500,3214.5
+TSPA,"List of moves, steepest, edges, random start",0,76757,2164.5,130470,2163
+TSPA,"List of moves, steepest, edges, random start",1,76205,1761.21,123398,1759.62
+TSPA,"List of moves, steepest, edges, random start",2,77383,1759.25,125762,1757.79
+TSPA,"List of moves, steepest, edges, random start",3,76194,1620.5,119469,1619.04
+TSPA,"List of moves, steepest, edges, random start",4,76112,1841.58,126539,1840.12
+TSPA,"List of moves, steepest, edges, random start",5,74956,1703.96,119473,1702.54
+TSPA,"List of moves, steepest, edges, random start",6,77361,1613.46,116328,1611.96
+TSPA,"List of moves, steepest, edges, random start",7,77144,1691.38,124968,1689.88
+TSPA,"List of moves, steepest, edges, random start",8,75229,1792.83,127326,1791.29
+TSPA,"List of moves, steepest, edges, random start",9,75871,1824.38,126539,1822.67
+TSPA,"List of moves, steepest, edges, random start",10,75635,1852.04,127326,1850.58
+TSPA,"List of moves, steepest, edges, random start",11,76885,1626.67,114750,1625.29
+TSPA,"List of moves, steepest, edges, random start",12,75117,1798.5,121836,1797.04
+TSPA,"List of moves, steepest, edges, random start",13,76288,1648.67,130479,1647.17
+TSPA,"List of moves, steepest, edges, random start",14,75862,1820.96,120260,1819.54
+TSPA,"List of moves, steepest, edges, random start",15,76491,2126.54,132826,2125.12
+TSPA,"List of moves, steepest, edges, random start",16,77111,1712.33,121825,1710.79
+TSPA,"List of moves, steepest, edges, random start",17,74756,1555.54,120257,1554.08
+TSPA,"List of moves, steepest, edges, random start",18,76349,1560.83,113187,1559.25
+TSPA,"List of moves, steepest, edges, random start",19,78491,1830.88,120249,1829.38
+TSPA,"List of moves, steepest, edges, random start",20,76249,1761.33,121824,1759.83
+TSPA,"List of moves, steepest, edges, random start",21,77802,1512.33,120269,1510.79
+TSPA,"List of moves, steepest, edges, random start",22,75860,1886.79,127337,1885.33
+TSPA,"List of moves, steepest, edges, random start",23,76998,1552.58,115547,1551.17
+TSPA,"List of moves, steepest, edges, random start",24,79054,1631.12,123403,1629.67
+TSPA,"List of moves, steepest, edges, random start",25,76703,1733.42,127324,1732
+TSPA,"List of moves, steepest, edges, random start",26,76383,2012.75,127323,2011.29
+TSPA,"List of moves, steepest, edges, random start",27,76360,1561.96,116330,1560.42
+TSPA,"List of moves, steepest, edges, random start",28,74385,1730.67,124961,1729.12
+TSPA,"List of moves, steepest, edges, random start",29,75735,1764.5,124181,1763.08
+TSPA,"List of moves, steepest, edges, random start",30,77335,1765,128117,1763.46
+TSPA,"List of moves, steepest, edges, random start",31,74641,1963.42,124967,1961.88
+TSPA,"List of moves, steepest, edges, random start",32,75589,1733.12,132039,1731.67
+TSPA,"List of moves, steepest, edges, random start",33,76731,1754.54,123407,1753.12
+TSPA,"List of moves, steepest, edges, random start",34,78472,1428.88,117118,1427.38
+TSPA,"List of moves, steepest, edges, random start",35,75683,1860.38,124969,1858.88
+TSPA,"List of moves, steepest, edges, random start",36,77770,1647.25,127326,1645.79
+TSPA,"List of moves, steepest, edges, random start",37,76964,1761.88,123400,1760.46
+TSPA,"List of moves, steepest, edges, random start",38,75789,1737.92,115539,1736.46
+TSPA,"List of moves, steepest, edges, random start",39,77298,1844.96,120257,1843.5
+TSPA,"List of moves, steepest, edges, random start",40,77696,1700.75,121041,1699.33
+TSPA,"List of moves, steepest, edges, random start",41,76548,1745.17,117898,1743.71
+TSPA,"List of moves, steepest, edges, random start",42,75803,1746.88,132044,1745.33
+TSPA,"List of moves, steepest, edges, random start",43,76801,1683.42,120263,1682
+TSPA,"List of moves, steepest, edges, random start",44,74375,1880.71,128117,1879.25
+TSPA,"List of moves, steepest, edges, random start",45,75682,1851.21,126543,1849.71
+TSPA,"List of moves, steepest, edges, random start",46,75916,1872.25,128894,1870.75
+TSPA,"List of moves, steepest, edges, random start",47,76642,1806.25,130468,1804.79
+TSPA,"List of moves, steepest, edges, random start",48,79812,1722.04,121833,1720.58
+TSPA,"List of moves, steepest, edges, random start",49,76312,1926.33,120250,1924.88
+TSPA,"List of moves, steepest, edges, random start",50,76191,1832.08,128113,1830.67
+TSPA,"List of moves, steepest, edges, random start",51,75041,1868.38,127325,1866.92
+TSPA,"List of moves, steepest, edges, random start",52,77220,1614.04,116321,1612.54
+TSPA,"List of moves, steepest, edges, random start",53,76260,1944.21,128109,1942.79
+TSPA,"List of moves, steepest, edges, random start",54,73643,1641.88,124976,1640.46
+TSPA,"List of moves, steepest, edges, random start",55,77060,1782.29,124181,1780.79
+TSPA,"List of moves, steepest, edges, random start",56,75317,1828.88,124180,1827.46
+TSPA,"List of moves, steepest, edges, random start",57,77619,1864.17,126540,1862.75
+TSPA,"List of moves, steepest, edges, random start",58,77053,1643.88,121830,1642.42
+TSPA,"List of moves, steepest, edges, random start",59,77418,1422.12,113187,1420.67
+TSPA,"List of moves, steepest, edges, random start",60,76714,1736.04,117889,1734.58
+TSPA,"List of moves, steepest, edges, random start",61,73930,1767.21,121831,1765.75
+TSPA,"List of moves, steepest, edges, random start",62,76155,1745.79,124973,1744.29
+TSPA,"List of moves, steepest, edges, random start",63,76113,1528.58,118687,1527.12
+TSPA,"List of moves, steepest, edges, random start",64,77142,1833.75,128903,1832.29
+TSPA,"List of moves, steepest, edges, random start",65,76922,1793.12,112399,1791.62
+TSPA,"List of moves, steepest, edges, random start",66,75779,1611.21,119472,1609.75
+TSPA,"List of moves, steepest, edges, random start",67,74765,1776.5,128117,1775
+TSPA,"List of moves, steepest, edges, random start",68,76932,1843.17,122609,1841.71
+TSPA,"List of moves, steepest, edges, random start",69,76898,1656.58,123401,1655.12
+TSPA,"List of moves, steepest, edges, random start",70,75377,1765.75,121828,1764.29
+TSPA,"List of moves, steepest, edges, random start",71,77662,1721.79,121038,1720.33
+TSPA,"List of moves, steepest, edges, random start",72,77101,1774.04,121823,1772.54
+TSPA,"List of moves, steepest, edges, random start",73,76715,1701.83,128898,1700.29
+TSPA,"List of moves, steepest, edges, random start",74,76222,1552.17,117902,1550.62
+TSPA,"List of moves, steepest, edges, random start",75,75922,1644.17,119476,1642.71
+TSPA,"List of moves, steepest, edges, random start",76,76459,1547.25,120247,1545.75
+TSPA,"List of moves, steepest, edges, random start",77,76146,1575.71,118683,1574.12
+TSPA,"List of moves, steepest, edges, random start",78,74915,1758,129688,1756.54
+TSPA,"List of moves, steepest, edges, random start",79,75791,1512.71,115545,1511.29
+TSPA,"List of moves, steepest, edges, random start",80,76030,1677.21,132040,1675.71
+TSPA,"List of moves, steepest, edges, random start",81,75992,1755.12,120257,1753.67
+TSPA,"List of moves, steepest, edges, random start",82,76122,1581,109252,1579.54
+TSPA,"List of moves, steepest, edges, random start",83,77523,1773.29,119470,1771.79
+TSPA,"List of moves, steepest, edges, random start",84,77509,1727.75,119473,1726.17
+TSPA,"List of moves, steepest, edges, random start",85,77418,1700.33,117110,1698.88
+TSPA,"List of moves, steepest, edges, random start",86,76210,1786.83,124181,1785.38
+TSPA,"List of moves, steepest, edges, random start",87,77535,1723.88,121824,1722.46
+TSPA,"List of moves, steepest, edges, random start",88,76535,1777.96,121043,1776.5
+TSPA,"List of moves, steepest, edges, random start",89,77697,1887.75,133609,1886.29
+TSPA,"List of moves, steepest, edges, random start",90,75166,1681.96,121049,1680.46
+TSPA,"List of moves, steepest, edges, random start",91,76588,1881.88,124182,1880.42
+TSPA,"List of moves, steepest, edges, random start",92,76827,1633.25,119480,1631.79
+TSPA,"List of moves, steepest, edges, random start",93,75206,1676.17,124190,1674.67
+TSPA,"List of moves, steepest, edges, random start",94,77046,1844.25,128107,1842.83
+TSPA,"List of moves, steepest, edges, random start",95,74816,1982.04,130471,1980.5
+TSPA,"List of moves, steepest, edges, random start",96,77266,1810.88,121042,1809.25
+TSPA,"List of moves, steepest, edges, random start",97,75882,1858.38,134399,1856.92
+TSPA,"List of moves, steepest, edges, random start",98,75399,1643.29,121833,1641.79
+TSPA,"List of moves, steepest, edges, random start",99,77017,1594.92,119467,1593.42
+TSPA,"List of moves, steepest, edges, random start",100,76145,1889.46,129684,1887.96
+TSPA,"List of moves, steepest, edges, random start",101,75351,1739.08,122616,1737.58
+TSPA,"List of moves, steepest, edges, random start",102,75651,1715.25,120248,1713.62
+TSPA,"List of moves, steepest, edges, random start",103,75244,1649.75,124976,1648.25
+TSPA,"List of moves, steepest, edges, random start",104,74276,1832,128119,1830.5
+TSPA,"List of moves, steepest, edges, random start",105,74691,1655.42,124972,1653.96
+TSPA,"List of moves, steepest, edges, random start",106,75901,1823.04,129682,1821.58
+TSPA,"List of moves, steepest, edges, random start",107,74616,1876.12,128104,1874.71
+TSPA,"List of moves, steepest, edges, random start",108,74584,1594.62,125762,1593.12
+TSPA,"List of moves, steepest, edges, random start",109,76332,1680.58,123402,1679.12
+TSPA,"List of moves, steepest, edges, random start",110,75161,1757.25,117898,1755.79
+TSPA,"List of moves, steepest, edges, random start",111,77204,1645.17,113970,1643.62
+TSPA,"List of moves, steepest, edges, random start",112,76101,1810.17,128903,1808.58
+TSPA,"List of moves, steepest, edges, random start",113,75240,1665.08,119473,1663.54
+TSPA,"List of moves, steepest, edges, random start",114,76184,1646.04,126546,1644.58
+TSPA,"List of moves, steepest, edges, random start",115,76889,1829.21,128118,1827.71
+TSPA,"List of moves, steepest, edges, random start",116,75055,1781.83,123398,1780.29
+TSPA,"List of moves, steepest, edges, random start",117,75062,1790.17,120246,1788.62
+TSPA,"List of moves, steepest, edges, random start",118,76205,1865.58,121820,1864.12
+TSPA,"List of moves, steepest, edges, random start",119,74733,1714.5,125762,1713.04
+TSPA,"List of moves, steepest, edges, random start",120,77147,1709.21,124186,1707.75
+TSPA,"List of moves, steepest, edges, random start",121,76388,1955.5,120258,1954.04
+TSPA,"List of moves, steepest, edges, random start",122,76493,1529.71,114755,1528.21
+TSPA,"List of moves, steepest, edges, random start",123,74828,1807.75,126541,1806.33
+TSPA,"List of moves, steepest, edges, random start",124,75631,1837.71,123406,1836.29
+TSPA,"List of moves, steepest, edges, random start",125,76991,1819.58,125758,1818.17
+TSPA,"List of moves, steepest, edges, random start",126,77185,1987.96,139894,1986.08
+TSPA,"List of moves, steepest, edges, random start",127,76521,1785,120255,1783.58
+TSPA,"List of moves, steepest, edges, random start",128,77048,1544.75,124970,1543.33
+TSPA,"List of moves, steepest, edges, random start",129,76919,1920.96,123395,1919.5
+TSPA,"List of moves, steepest, edges, random start",130,75208,1783.08,126538,1781.62
+TSPA,"List of moves, steepest, edges, random start",131,75653,1603.12,124973,1601.71
+TSPA,"List of moves, steepest, edges, random start",132,76662,1899.67,126540,1898.21
+TSPA,"List of moves, steepest, edges, random start",133,75706,1517.17,118686,1515.71
+TSPA,"List of moves, steepest, edges, random start",134,75736,1792.17,129685,1790.71
+TSPA,"List of moves, steepest, edges, random start",135,75905,1805.5,119462,1804.04
+TSPA,"List of moves, steepest, edges, random start",136,75580,1700.62,130478,1699.21
+TSPA,"List of moves, steepest, edges, random start",137,77668,1774.83,125756,1773.33
+TSPA,"List of moves, steepest, edges, random start",138,78496,1813.88,130474,1812.46
+TSPA,"List of moves, steepest, edges, random start",139,76773,1657.96,122616,1656.5
+TSPA,"List of moves, steepest, edges, random start",140,75275,1741.62,117112,1740.17
+TSPA,"List of moves, steepest, edges, random start",141,74939,1713.5,122612,1712.04
+TSPA,"List of moves, steepest, edges, random start",142,78646,1769.33,124184,1767.92
+TSPA,"List of moves, steepest, edges, random start",143,74972,1795.92,124970,1794.5
+TSPA,"List of moves, steepest, edges, random start",144,75871,1746.42,127333,1744.92
+TSPA,"List of moves, steepest, edges, random start",145,77091,1738,124188,1736.58
+TSPA,"List of moves, steepest, edges, random start",146,76655,1586.42,120257,1585
+TSPA,"List of moves, steepest, edges, random start",147,75775,1732.96,124969,1731.54
+TSPA,"List of moves, steepest, edges, random start",148,77695,1714.38,121835,1712.92
+TSPA,"List of moves, steepest, edges, random start",149,76670,1861.92,127320,1860.46
+TSPA,"List of moves, steepest, edges, random start",150,77176,1666.33,121047,1664.88
+TSPA,"List of moves, steepest, edges, random start",151,76471,1917.75,131258,1916.25
+TSPA,"List of moves, steepest, edges, random start",152,77737,1775.67,125754,1774.21
+TSPA,"List of moves, steepest, edges, random start",153,77126,1806.71,125760,1805.25
+TSPA,"List of moves, steepest, edges, random start",154,74403,1808.33,121050,1806.92
+TSPA,"List of moves, steepest, edges, random start",155,75647,1959.29,125752,1957.58
+TSPA,"List of moves, steepest, edges, random start",156,75917,1798.25,125760,1796.71
+TSPA,"List of moves, steepest, edges, random start",157,75394,1661.21,122615,1659.67
+TSPA,"List of moves, steepest, edges, random start",158,76154,1862.21,128106,1860.5
+TSPA,"List of moves, steepest, edges, random start",159,78760,1838.42,124178,1836.92
+TSPA,"List of moves, steepest, edges, random start",160,76872,1907.29,133616,1905.83
+TSPA,"List of moves, steepest, edges, random start",161,74748,1638.17,114765,1636.75
+TSPA,"List of moves, steepest, edges, random start",162,75604,1692.42,119468,1691
+TSPA,"List of moves, steepest, edges, random start",163,76227,1593.17,117902,1591.71
+TSPA,"List of moves, steepest, edges, random start",164,76040,1591.5,121825,1590.04
+TSPA,"List of moves, steepest, edges, random start",165,75437,1733.46,124187,1732
+TSPA,"List of moves, steepest, edges, random start",166,74963,1696.29,124183,1694.83
+TSPA,"List of moves, steepest, edges, random start",167,74758,1975.04,128109,1973.62
+TSPA,"List of moves, steepest, edges, random start",168,75396,1744.17,128115,1742.58
+TSPA,"List of moves, steepest, edges, random start",169,77889,1703.21,119480,1701.67
+TSPA,"List of moves, steepest, edges, random start",170,75003,1774.04,145394,1772.58
+TSPA,"List of moves, steepest, edges, random start",171,76290,1771.92,130463,1770.46
+TSPA,"List of moves, steepest, edges, random start",172,75542,1474.38,113976,1472.92
+TSPA,"List of moves, steepest, edges, random start",173,76863,1588.29,123402,1586.75
+TSPA,"List of moves, steepest, edges, random start",174,74508,1711.17,124188,1709.58
+TSPA,"List of moves, steepest, edges, random start",175,75510,1684.25,119468,1682.83
+TSPA,"List of moves, steepest, edges, random start",176,76549,1713.46,124974,1711.96
+TSPA,"List of moves, steepest, edges, random start",177,76772,1795.17,128892,1793.75
+TSPA,"List of moves, steepest, edges, random start",178,77104,1789.88,128899,1788.46
+TSPA,"List of moves, steepest, edges, random start",179,75305,1942.88,124179,1941.38
+TSPA,"List of moves, steepest, edges, random start",180,75465,1562.04,119473,1560.58
+TSPA,"List of moves, steepest, edges, random start",181,76294,1790.29,124185,1788.83
+TSPA,"List of moves, steepest, edges, random start",182,76165,1726.75,124969,1725.33
+TSPA,"List of moves, steepest, edges, random start",183,73654,1675.5,124193,1674.04
+TSPA,"List of moves, steepest, edges, random start",184,76513,1754.54,124184,1753.12
+TSPA,"List of moves, steepest, edges, random start",185,75930,1606.5,118689,1605.08
+TSPA,"List of moves, steepest, edges, random start",186,75771,1823.54,123398,1822.08
+TSPA,"List of moves, steepest, edges, random start",187,76386,1803.12,124973,1801.67
+TSPA,"List of moves, steepest, edges, random start",188,75159,1848.12,126542,1846.62
+TSPA,"List of moves, steepest, edges, random start",189,73835,1817.25,123401,1815.79
+TSPA,"List of moves, steepest, edges, random start",190,74709,1635.62,122613,1634.17
+TSPA,"List of moves, steepest, edges, random start",191,77585,1725.92,117901,1724.46
+TSPA,"List of moves, steepest, edges, random start",192,77580,1895.62,133608,1894.21
+TSPA,"List of moves, steepest, edges, random start",193,75680,1656.33,124183,1654.92
+TSPA,"List of moves, steepest, edges, random start",194,75103,1741.25,117899,1739.79
+TSPA,"List of moves, steepest, edges, random start",195,78040,1727.67,119467,1726.17
+TSPA,"List of moves, steepest, edges, random start",196,76971,1710.46,113186,1709
+TSPA,"List of moves, steepest, edges, random start",197,75644,1698.42,123393,1697
+TSPA,"List of moves, steepest, edges, random start",198,75402,1819.08,125754,1817.54
+TSPA,"List of moves, steepest, edges, random start",199,76570,1793.29,121040,1791.88
+TSPB,"Steepest, edges, random start",0,55820,3137.67,1885950,3136.17
+TSPB,"Steepest, edges, random start",1,52952,3575,2138400,3573.5
+TSPB,"Steepest, edges, random start",2,51074,3530.21,2123550,3528.79
+TSPB,"Steepest, edges, random start",3,52196,3164.25,1900800,3162.79
+TSPB,"Steepest, edges, random start",4,52081,3160.04,1900800,3158.58
+TSPB,"Steepest, edges, random start",5,52607,3471.5,2079000,3470.04
+TSPB,"Steepest, edges, random start",6,51923,3136.92,1885950,3135.42
+TSPB,"Steepest, edges, random start",7,53143,3144.92,1856250,3143.5
+TSPB,"Steepest, edges, random start",8,52173,3560.71,2064150,3559.08
+TSPB,"Steepest, edges, random start",9,52208,3407.67,2034450,3406.12
+TSPB,"Steepest, edges, random start",10,53641,3167.12,1900800,3165.67
+TSPB,"Steepest, edges, random start",11,51992,3330.25,2004750,3328.83
+TSPB,"Steepest, edges, random start",12,52329,3313.58,1975050,3312.17
+TSPB,"Steepest, edges, random start",13,54392,3105.29,1871100,3103.83
+TSPB,"Steepest, edges, random start",14,52430,3188.79,1915650,3187.33
+TSPB,"Steepest, edges, random start",15,53646,3313.29,1975050,3311.83
+TSPB,"Steepest, edges, random start",16,52353,3298.71,1960200,3297.17
+TSPB,"Steepest, edges, random start",17,53763,3326.5,1989900,3325
+TSPB,"Steepest, edges, random start",18,52086,3426.5,2049300,3425.04
+TSPB,"Steepest, edges, random start",19,52965,3359.5,2019600,3358.04
+TSPB,"Steepest, edges, random start",20,52002,3559.79,2138400,3558.33
+TSPB,"Steepest, edges, random start",21,52938,3094.46,1856250,3093
+TSPB,"Steepest, edges, random start",22,53725,3352.75,2004750,3351.33
+TSPB,"Steepest, edges, random start",23,53744,3281.08,1975050,3279.58
+TSPB,"Steepest, edges, random start",24,53644,3274.62,1945350,3273.12
+TSPB,"Steepest, edges, random start",25,52785,3334.12,2004750,3332.46
+TSPB,"Steepest, edges, random start",26,52048,3229.46,1915650,3228
+TSPB,"Steepest, edges, random start",27,51305,3357.25,2019600,3355.83
+TSPB,"Steepest, edges, random start",28,53064,3237.67,1930500,3236.17
+TSPB,"Steepest, edges, random start",29,51338,3508.42,2108700,3506.83
+TSPB,"Steepest, edges, random start",30,52852,3357,2019600,3355.54
+TSPB,"Steepest, edges, random start",31,53879,3236.33,1945350,3234.88
+TSPB,"Steepest, edges, random start",32,54558,3126.92,1885950,3125.46
+TSPB,"Steepest, edges, random start",33,51353,3409.92,2049300,3408.46
+TSPB,"Steepest, edges, random start",34,52852,3392.29,2049300,3390.83
+TSPB,"Steepest, edges, random start",35,54582,3144.33,1871100,3142.88
+TSPB,"Steepest, edges, random start",36,52499,3149.88,1871100,3148.42
+TSPB,"Steepest, edges, random start",37,52051,3235.04,1945350,3233.62
+TSPB,"Steepest, edges, random start",38,51100,3616.83,2153250,3615.38
+TSPB,"Steepest, edges, random start",39,51339,3230.96,1945350,3229.17
+TSPB,"Steepest, edges, random start",40,51737,3590.42,2153250,3588.96
+TSPB,"Steepest, edges, random start",41,52935,3246.25,1945350,3244.79
+TSPB,"Steepest, edges, random start",42,51747,3388.58,2019600,3387.08
+TSPB,"Steepest, edges, random start",43,52440,3464.5,2064150,3463.08
+TSPB,"Steepest, edges, random start",44,51550,3543.08,2093850,3541.67
+TSPB,"Steepest, edges, random start",45,50839,3677.5,2168100,3676
+TSPB,"Steepest, edges, random start",46,53875,3274.04,1960200,3272.58
+TSPB,"Steepest, edges, random start",47,52408,3337.42,2004750,3335.96
+TSPB,"Steepest, edges, random start",48,52038,3188.29,1900800,3186.83
+TSPB,"Steepest, edges, random start",49,52837,3314.33,1975050,3312.88
+TSPB,"Steepest, edges, random start",50,53270,3236.92,1930500,3235.46
+TSPB,"Steepest, edges, random start",51,52344,3130.75,1885950,3129.29
+TSPB,"Steepest, edges, random start",52,52147,3358.46,2019600,3357
+TSPB,"Steepest, edges, random start",53,53284,3486.67,2093850,3485.25
+TSPB,"Steepest, edges, random start",54,53036,3237.62,1945350,3236.17
+TSPB,"Steepest, edges, random start",55,52108,3439.5,2064150,3438.04
+TSPB,"Steepest, edges, random start",56,52572,3034.38,1826550,3032.96
+TSPB,"Steepest, edges, random start",57,53727,3500.08,2064150,3498.67
+TSPB,"Steepest, edges, random start",58,52102,3390.92,2019600,3389.42
+TSPB,"Steepest, edges, random start",59,51269,3438.25,2064150,3436.79
+TSPB,"Steepest, edges, random start",60,53304,3268.58,1975050,3267.21
+TSPB,"Steepest, edges, random start",61,52589,3268.21,1975050,3266.71
+TSPB,"Steepest, edges, random start",62,51232,3279.58,1975050,3278.08
+TSPB,"Steepest, edges, random start",63,51710,3480.54,2108700,3479.04
+TSPB,"Steepest, edges, random start",64,52296,3055.04,1841400,3053.54
+TSPB,"Steepest, edges, random start",65,52240,3473.38,2093850,3471.92
+TSPB,"Steepest, edges, random start",66,52188,3737.21,2227500,3735.79
+TSPB,"Steepest, edges, random start",67,51688,3570.79,2138400,3569.29
+TSPB,"Steepest, edges, random start",68,51549,3371.83,2034450,3370.42
+TSPB,"Steepest, edges, random start",69,51733,3485.92,2093850,3484.46
+TSPB,"Steepest, edges, random start",70,53506,3232.54,1945350,3231.08
+TSPB,"Steepest, edges, random start",71,54268,3261,1960200,3259.5
+TSPB,"Steepest, edges, random start",72,53096,3286,1975050,3284.5
+TSPB,"Steepest, edges, random start",73,51015,3205.58,1930500,3204.17
+TSPB,"Steepest, edges, random start",74,53311,3193.92,1915650,3192.46
+TSPB,"Steepest, edges, random start",75,51715,3440.17,2064150,3438.75
+TSPB,"Steepest, edges, random start",76,52538,3425.21,2019600,3423.79
+TSPB,"Steepest, edges, random start",77,52422,3279.92,1960200,3278.46
+TSPB,"Steepest, edges, random start",78,53165,3206.92,1930500,3205.46
+TSPB,"Steepest, edges, random start",79,53986,3471,2079000,3469.54
+TSPB,"Steepest, edges, random start",80,51692,3208.38,1930500,3206.92
+TSPB,"Steepest, edges, random start",81,53411,3345.83,2004750,3344.38
+TSPB,"Steepest, edges, random start",82,51648,3204.83,1930500,3203.33
+TSPB,"Steepest, edges, random start",83,52441,3268.29,1960200,3266.88
+TSPB,"Steepest, edges, random start",84,52853,3604.12,2168100,3602.62
+TSPB,"Steepest, edges, random start",85,52474,3174.92,1885950,3173.46
+TSPB,"Steepest, edges, random start",86,52521,3269.62,1960200,3268.12
+TSPB,"Steepest, edges, random start",87,53524,3218.62,1945350,3216.88
+TSPB,"Steepest, edges, random start",88,52181,3498.88,2093850,3497.42
+TSPB,"Steepest, edges, random start",89,52533,3370.79,2034450,3369.33
+TSPB,"Steepest, edges, random start",90,51383,3390.5,2034450,3389.04
+TSPB,"Steepest, edges, random start",91,52754,3450.33,2079000,3448.83
+TSPB,"Steepest, edges, random start",92,53406,3200.38,1930500,3198.88
+TSPB,"Steepest, edges, random start",93,53405,3397.12,2034450,3395.62
+TSPB,"Steepest, edges, random start",94,54140,3173.46,1915650,3172
+TSPB,"Steepest, edges, random start",95,51555,3403.29,2049300,3401.88
+TSPB,"Steepest, edges, random start",96,51517,3107.29,1871100,3105.88
+TSPB,"Steepest, edges, random start",97,52154,3552.25,2138400,3550.83
+TSPB,"Steepest, edges, random start",98,51983,3405.25,2034450,3403.75
+TSPB,"Steepest, edges, random start",99,51856,3325.71,1989900,3324.21
+TSPB,"Steepest, edges, random start",100,52162,3601,2168100,3599.54
+TSPB,"Steepest, edges, random start",101,50902,3294.83,1989900,3293.42
+TSPB,"Steepest, edges, random start",102,52776,3299.67,1989900,3298.17
+TSPB,"Steepest, edges, random start",103,53506,3538.17,2138400,3536.71
+TSPB,"Steepest, edges, random start",104,52854,3328.5,1989900,3327.08
+TSPB,"Steepest, edges, random start",105,52780,3267.04,1975050,3265.58
+TSPB,"Steepest, edges, random start",106,52942,3245.21,1915650,3243.71
+TSPB,"Steepest, edges, random start",107,53376,3569.67,2138400,3568.21
+TSPB,"Steepest, edges, random start",108,53343,3251.96,1945350,3250.54
+TSPB,"Steepest, edges, random start",109,52533,3243.21,1915650,3241.71
+TSPB,"Steepest, edges, random start",110,52228,3380.25,2019600,3378.79
+TSPB,"Steepest, edges, random start",111,52290,3439.42,2064150,3437.92
+TSPB,"Steepest, edges, random start",112,52529,3484.5,2079000,3483.04
+TSPB,"Steepest, edges, random start",113,52434,3761.79,2168100,3760.17
+TSPB,"Steepest, edges, random start",114,53232,3392.21,2034450,3390.75
+TSPB,"Steepest, edges, random start",115,52745,3523.38,2108700,3521.92
+TSPB,"Steepest, edges, random start",116,52478,3393.33,2049300,3391.92
+TSPB,"Steepest, edges, random start",117,50817,3273.67,1960200,3272.25
+TSPB,"Steepest, edges, random start",118,52805,3347.25,2004750,3345.79
+TSPB,"Steepest, edges, random start",119,53227,3236.58,1945350,3235.08
+TSPB,"Steepest, edges, random start",120,51644,3295,1989900,3293.58
+TSPB,"Steepest, edges, random start",121,54136,3202.92,1930500,3201.46
+TSPB,"Steepest, edges, random start",122,52599,3501.83,2108700,3500.33
+TSPB,"Steepest, edges, random start",123,53897,3387.83,2034450,3386.38
+TSPB,"Steepest, edges, random start",124,52577,3062.46,1841400,3061.04
+TSPB,"Steepest, edges, random start",125,51212,3224.29,1915650,3222.83
+TSPB,"Steepest, edges, random start",126,53050,3383.71,2034450,3382.25
+TSPB,"Steepest, edges, random start",127,54500,3395.08,2019600,3393.62
+TSPB,"Steepest, edges, random start",128,53137,3405.25,1960200,3403.83
+TSPB,"Steepest, edges, random start",129,53018,3379.12,2019600,3377.67
+TSPB,"Steepest, edges, random start",130,51734,3395.71,2004750,3394.08
+TSPB,"Steepest, edges, random start",131,53151,3604,2123550,3602.46
+TSPB,"Steepest, edges, random start",132,52304,4153.62,2064150,4152.12
+TSPB,"Steepest, edges, random start",133,51565,3266.62,1915650,3264.92
+TSPB,"Steepest, edges, random start",134,52186,3325,1989900,3323.54
+TSPB,"Steepest, edges, random start",135,52486,3559.75,2093850,3558.33
+TSPB,"Steepest, edges, random start",136,53339,3484.04,1975050,3482.75
+TSPB,"Steepest, edges, random start",137,52300,3073.12,1782000,3071.33
+TSPB,"Steepest, edges, random start",138,52798,3269.71,1975050,3268.25
+TSPB,"Steepest, edges, random start",139,52498,3151.38,1885950,3149.92
+TSPB,"Steepest, edges, random start",140,52882,3257.25,1960200,3255.79
+TSPB,"Steepest, edges, random start",141,51021,3392,2049300,3390.58
+TSPB,"Steepest, edges, random start",142,51523,3081.54,1841400,3080.08
+TSPB,"Steepest, edges, random start",143,52941,3390.79,2004750,3389.17
+TSPB,"Steepest, edges, random start",144,53150,3024.46,1811700,3023
+TSPB,"Steepest, edges, random start",145,53393,2859.29,1707750,2857.75
+TSPB,"Steepest, edges, random start",146,51226,3609.17,2168100,3607.67
+TSPB,"Steepest, edges, random start",147,52758,3270.58,1960200,3269.12
+TSPB,"Steepest, edges, random start",148,53107,3259.88,1945350,3258.42
+TSPB,"Steepest, edges, random start",149,51043,3588.17,2138400,3586.71
+TSPB,"Steepest, edges, random start",150,52282,3625.38,2153250,3623.92
+TSPB,"Steepest, edges, random start",151,52638,3258.54,1945350,3257.08
+TSPB,"Steepest, edges, random start",152,54770,3255.62,1960200,3254.17
+TSPB,"Steepest, edges, random start",153,52564,3091.33,1856250,3089.88
+TSPB,"Steepest, edges, random start",154,51847,3517.79,2108700,3516.33
+TSPB,"Steepest, edges, random start",155,53961,3362,2019600,3360.54
+TSPB,"Steepest, edges, random start",156,52131,3415.29,2049300,3413.83
+TSPB,"Steepest, edges, random start",157,51853,3377.67,2019600,3376.21
+TSPB,"Steepest, edges, random start",158,53521,3281.42,1975050,3279.96
+TSPB,"Steepest, edges, random start",159,53257,3211.88,1930500,3210.42
+TSPB,"Steepest, edges, random start",160,52123,3226.25,1930500,3224.79
+TSPB,"Steepest, edges, random start",161,52462,3194.04,1930500,3192.62
+TSPB,"Steepest, edges, random start",162,52114,3323.79,1989900,3322.33
+TSPB,"Steepest, edges, random start",163,52331,3500.21,2093850,3498.75
+TSPB,"Steepest, edges, random start",164,53350,3230.62,1930500,3229.17
+TSPB,"Steepest, edges, random start",165,53208,3163.92,1900800,3162.5
+TSPB,"Steepest, edges, random start",166,51898,3648.79,2197800,3647.33
+TSPB,"Steepest, edges, random start",167,53075,3311.46,1989900,3309.96
+TSPB,"Steepest, edges, random start",168,52889,3449.83,2079000,3448.38
+TSPB,"Steepest, edges, random start",169,51233,3502.92,2093850,3501.46
+TSPB,"Steepest, edges, random start",170,53030,3440.29,2064150,3438.83
+TSPB,"Steepest, edges, random start",171,53214,2993.29,1796850,2991.83
+TSPB,"Steepest, edges, random start",172,53868,3313.33,1989900,3311.88
+TSPB,"Steepest, edges, random start",173,52548,3165.54,1871100,3164.08
+TSPB,"Steepest, edges, random start",174,51597,3533.42,2108700,3532
+TSPB,"Steepest, edges, random start",175,51424,3642.08,2123550,3640.67
+TSPB,"Steepest, edges, random start",176,52445,3167.33,1900800,3165.79
+TSPB,"Steepest, edges, random start",177,52816,3140.67,1885950,3139.25
+TSPB,"Steepest, edges, random start",178,52687,3493,2093850,3491.58
+TSPB,"Steepest, edges, random start",179,53898,3153.46,1900800,3152
+TSPB,"Steepest, edges, random start",180,52284,3160.79,1885950,3159.33
+TSPB,"Steepest, edges, random start",181,53196,3454.5,2079000,3453
+TSPB,"Steepest, edges, random start",182,53149,3534.38,2108700,3532.92
+TSPB,"Steepest, edges, random start",183,50132,3338.75,1975050,3337.33
+TSPB,"Steepest, edges, random start",184,51300,3264.08,1945350,3262.54
+TSPB,"Steepest, edges, random start",185,52327,3608.5,2064150,3607.08
+TSPB,"Steepest, edges, random start",186,53299,3322,1885950,3320.46
+TSPB,"Steepest, edges, random start",187,52829,3330.71,1975050,3329.21
+TSPB,"Steepest, edges, random start",188,52213,3312.04,1811700,3310.58
+TSPB,"Steepest, edges, random start",189,53790,3404.04,1871100,3402.54
+TSPB,"Steepest, edges, random start",190,51948,3687.62,2212650,3686.21
+TSPB,"Steepest, edges, random start",191,53092,3063.54,1841400,3062.12
+TSPB,"Steepest, edges, random start",192,52758,3522.54,2123550,3521.12
+TSPB,"Steepest, edges, random start",193,51135,3491.54,2093850,3490.08
+TSPB,"Steepest, edges, random start",194,51321,3378.17,2019600,3376.71
+TSPB,"Steepest, edges, random start",195,52132,3410.38,2049300,3408.92
+TSPB,"Steepest, edges, random start",196,53118,3363.04,2004750,3361.58
+TSPB,"Steepest, edges, random start",197,53603,3742.42,2168100,3740.88
+TSPB,"Steepest, edges, random start",198,52473,3138.88,1871100,3137.42
+TSPB,"Steepest, edges, random start",199,52177,3578.17,2153250,3576.62
+TSPB,"List of moves, steepest, edges, random start",0,55820,1844.33,118686,1842.58
+TSPB,"List of moves, steepest, edges, random start",1,52952,1741.58,132043,1740.08
+TSPB,"List of moves, steepest, edges, random start",2,51074,1622.75,131255,1621.33
+TSPB,"List of moves, steepest, edges, random start",3,52196,1611.33,119465,1609.75
+TSPB,"List of moves, steepest, edges, random start",4,52081,1557.71,119467,1556.25
+TSPB,"List of moves, steepest, edges, random start",5,52607,1828,128892,1826.58
+TSPB,"List of moves, steepest, edges, random start",6,52014,1748.46,119469,1747
+TSPB,"List of moves, steepest, edges, random start",7,53143,1665,117109,1663.54
+TSPB,"List of moves, steepest, edges, random start",8,52206,1878.83,128107,1877.42
+TSPB,"List of moves, steepest, edges, random start",9,52208,1727.92,126543,1726.46
+TSPB,"List of moves, steepest, edges, random start",10,53641,1641.71,119468,1640.25
+TSPB,"List of moves, steepest, edges, random start",11,52074,1713.29,124177,1711.83
+TSPB,"List of moves, steepest, edges, random start",12,52329,1705.92,123404,1704.5
+TSPB,"List of moves, steepest, edges, random start",13,54392,1405.38,117899,1403.96
+TSPB,"List of moves, steepest, edges, random start",14,52460,1752.92,127332,1751.46
+TSPB,"List of moves, steepest, edges, random start",15,53646,1636.04,123401,1634.58
+TSPB,"List of moves, steepest, edges, random start",16,52353,1798.25,122612,1796.71
+TSPB,"List of moves, steepest, edges, random start",17,53763,1799.71,124180,1798.25
+TSPB,"List of moves, steepest, edges, random start",18,52086,1732.42,127324,1731
+TSPB,"List of moves, steepest, edges, random start",19,52965,1818.54,125750,1817.04
+TSPB,"List of moves, steepest, edges, random start",20,52002,1780.58,132036,1779.12
+TSPB,"List of moves, steepest, edges, random start",21,52938,1778.17,117111,1776.71
+TSPB,"List of moves, steepest, edges, random start",22,53725,1735.25,124971,1733.83
+TSPB,"List of moves, steepest, edges, random start",23,53744,1491.54,123396,1490.08
+TSPB,"List of moves, steepest, edges, random start",24,53644,1576.79,121824,1575.33
+TSPB,"List of moves, steepest, edges, random start",25,52785,1795.08,124964,1793.62
+TSPB,"List of moves, steepest, edges, random start",26,52048,1632.96,120249,1631.5
+TSPB,"List of moves, steepest, edges, random start",27,51305,1678.25,125749,1676.83
+TSPB,"List of moves, steepest, edges, random start",28,53064,1560.17,121036,1558.71
+TSPB,"List of moves, steepest, edges, random start",29,51338,1657.96,130475,1656.5
+TSPB,"List of moves, steepest, edges, random start",30,52852,1758.67,125754,1757.17
+TSPB,"List of moves, steepest, edges, random start",31,53879,1577.17,121825,1575.67
+TSPB,"List of moves, steepest, edges, random start",32,54558,1646.92,118688,1645.46
+TSPB,"List of moves, steepest, edges, random start",33,51353,1576.75,127326,1575.29
+TSPB,"List of moves, steepest, edges, random start",34,52852,1785,127318,1783.54
+TSPB,"List of moves, steepest, edges, random start",35,54582,1601.88,117903,1600.5
+TSPB,"List of moves, steepest, edges, random start",36,52499,1704.54,117896,1703.12
+TSPB,"List of moves, steepest, edges, random start",37,52051,1598.58,121827,1597.17
+TSPB,"List of moves, steepest, edges, random start",38,51100,1734.42,132826,1732.92
+TSPB,"List of moves, steepest, edges, random start",39,51339,1683.46,121820,1682
+TSPB,"List of moves, steepest, edges, random start",40,51737,1813.29,132823,1811.83
+TSPB,"List of moves, steepest, edges, random start",41,52935,1666.75,121827,1665.29
+TSPB,"List of moves, steepest, edges, random start",42,51747,1603.62,125750,1602.12
+TSPB,"List of moves, steepest, edges, random start",43,52440,1698.38,128109,1696.96
+TSPB,"List of moves, steepest, edges, random start",44,51125,1706.75,125755,1705.29
+TSPB,"List of moves, steepest, edges, random start",45,50839,1870.75,133612,1869.29
+TSPB,"List of moves, steepest, edges, random start",46,53875,1665.12,122602,1663.67
+TSPB,"List of moves, steepest, edges, random start",47,51376,1684.88,128901,1683.46
+TSPB,"List of moves, steepest, edges, random start",48,52038,1627.58,119477,1626.12
+TSPB,"List of moves, steepest, edges, random start",49,52837,1726.42,123391,1724.96
+TSPB,"List of moves, steepest, edges, random start",50,53270,1706.75,121033,1705.33
+TSPB,"List of moves, steepest, edges, random start",51,52344,1664.75,118686,1663.29
+TSPB,"List of moves, steepest, edges, random start",52,52147,1811.88,125761,1810.38
+TSPB,"List of moves, steepest, edges, random start",53,53284,1712.83,129692,1711.42
+TSPB,"List of moves, steepest, edges, random start",54,53036,1615.38,121831,1613.96
+TSPB,"List of moves, steepest, edges, random start",55,52137,1719.79,130473,1718.33
+TSPB,"List of moves, steepest, edges, random start",56,52572,1515.67,115537,1514.25
+TSPB,"List of moves, steepest, edges, random start",57,53727,1839.79,128112,1838.33
+TSPB,"List of moves, steepest, edges, random start",58,52102,1729.04,125750,1727.54
+TSPB,"List of moves, steepest, edges, random start",59,51269,1754.12,128106,1752.62
+TSPB,"List of moves, steepest, edges, random start",60,51836,1929.62,132827,1928.17
+TSPB,"List of moves, steepest, edges, random start",61,52589,1575.08,123399,1573.62
+TSPB,"List of moves, steepest, edges, random start",62,51232,1722.29,123398,1720.83
+TSPB,"List of moves, steepest, edges, random start",63,51710,1720.21,130467,1718.71
+TSPB,"List of moves, steepest, edges, random start",64,53169,1491.38,117899,1489.92
+TSPB,"List of moves, steepest, edges, random start",65,52240,1775.71,129679,1774.21
+TSPB,"List of moves, steepest, edges, random start",66,52188,1785.71,136750,1784.29
+TSPB,"List of moves, steepest, edges, random start",67,51688,1810.54,132034,1809.08
+TSPB,"List of moves, steepest, edges, random start",68,51549,1732.62,126538,1731.12
+TSPB,"List of moves, steepest, edges, random start",69,51733,1843.88,129686,1842.42
+TSPB,"List of moves, steepest, edges, random start",70,53506,1786.21,121829,1784.75
+TSPB,"List of moves, steepest, edges, random start",71,54268,1589.75,122609,1588.29
+TSPB,"List of moves, steepest, edges, random start",72,53096,1722,123398,1720.5
+TSPB,"List of moves, steepest, edges, random start",73,51015,1677.71,121047,1676.25
+TSPB,"List of moves, steepest, edges, random start",74,53311,1783.92,120254,1782.46
+TSPB,"List of moves, steepest, edges, random start",75,51715,1607.88,128112,1606.46
+TSPB,"List of moves, steepest, edges, random start",76,52029,1720.33,129684,1718.88
+TSPB,"List of moves, steepest, edges, random start",77,52307,1750.79,120248,1749.33
+TSPB,"List of moves, steepest, edges, random start",78,53165,1808.12,121043,1806.67
+TSPB,"List of moves, steepest, edges, random start",79,52930,1469.42,126547,1467.96
+TSPB,"List of moves, steepest, edges, random start",80,51692,1716.08,121037,1714.62
+TSPB,"List of moves, steepest, edges, random start",81,53411,1728.83,124963,1727.38
+TSPB,"List of moves, steepest, edges, random start",82,51648,1532.17,121048,1530.71
+TSPB,"List of moves, steepest, edges, random start",83,52441,1831.04,122608,1829.58
+TSPB,"List of moves, steepest, edges, random start",84,52911,1897.88,132043,1896.42
+TSPB,"List of moves, steepest, edges, random start",85,52474,1555.25,118685,1553.67
+TSPB,"List of moves, steepest, edges, random start",86,52521,1827.92,122607,1826.38
+TSPB,"List of moves, steepest, edges, random start",87,53524,1662.5,121831,1661.08
+TSPB,"List of moves, steepest, edges, random start",88,52181,1614.33,129691,1612.88
+TSPB,"List of moves, steepest, edges, random start",89,52533,1750.21,126542,1748.75
+TSPB,"List of moves, steepest, edges, random start",90,51383,1783.25,126545,1781.75
+TSPB,"List of moves, steepest, edges, random start",91,52754,1756.25,128895,1754.79
+TSPB,"List of moves, steepest, edges, random start",92,53406,1815.42,121042,1813.92
+TSPB,"List of moves, steepest, edges, random start",93,53405,1777.5,126547,1776
+TSPB,"List of moves, steepest, edges, random start",94,54140,1684.83,120251,1683.42
+TSPB,"List of moves, steepest, edges, random start",95,51931,1688.46,121039,1687
+TSPB,"List of moves, steepest, edges, random start",96,51517,1593.42,117894,1592
+TSPB,"List of moves, steepest, edges, random start",97,52154,1660.88,132036,1659.46
+TSPB,"List of moves, steepest, edges, random start",98,51983,1688.67,126540,1687.17
+TSPB,"List of moves, steepest, edges, random start",99,51856,1638.88,124178,1637.38
+TSPB,"List of moves, steepest, edges, random start",100,52162,1777.67,133614,1776.21
+TSPB,"List of moves, steepest, edges, random start",101,50902,1594.04,124178,1592.12
+TSPB,"List of moves, steepest, edges, random start",102,52776,1634.33,124181,1632.83
+TSPB,"List of moves, steepest, edges, random start",103,53506,1853,132035,1851.54
+TSPB,"List of moves, steepest, edges, random start",104,52854,1713.58,124181,1712.12
+TSPB,"List of moves, steepest, edges, random start",105,52780,1745.67,123399,1744.21
+TSPB,"List of moves, steepest, edges, random start",106,52942,1747.29,120251,1745.83
+TSPB,"List of moves, steepest, edges, random start",107,53376,1744.17,132037,1742.75
+TSPB,"List of moves, steepest, edges, random start",108,53343,1791.33,121820,1789.88
+TSPB,"List of moves, steepest, edges, random start",109,52533,1769.62,120259,1768.12
+TSPB,"List of moves, steepest, edges, random start",110,52228,1663.75,125754,1662.33
+TSPB,"List of moves, steepest, edges, random start",111,52290,1834.25,128111,1832.79
+TSPB,"List of moves, steepest, edges, random start",112,52606,1800.5,128116,1799.04
+TSPB,"List of moves, steepest, edges, random start",113,52412,1686.12,134397,1684.67
+TSPB,"List of moves, steepest, edges, random start",114,53232,1544.54,126547,1543.12
+TSPB,"List of moves, steepest, edges, random start",115,52745,1728.83,130463,1727.33
+TSPB,"List of moves, steepest, edges, random start",116,52478,1762.96,127324,1761.46
+TSPB,"List of moves, steepest, edges, random start",117,50831,1603.12,121834,1601.67
+TSPB,"List of moves, steepest, edges, random start",118,52805,1745.83,124963,1744.38
+TSPB,"List of moves, steepest, edges, random start",119,53227,1637,121826,1635.54
+TSPB,"List of moves, steepest, edges, random start",120,51644,1594.04,124183,1592.58
+TSPB,"List of moves, steepest, edges, random start",121,54136,1847.12,121040,1845.67
+TSPB,"List of moves, steepest, edges, random start",122,52599,1612.12,130468,1610.67
+TSPB,"List of moves, steepest, edges, random start",123,53897,1693.08,126537,1691.67
+TSPB,"List of moves, steepest, edges, random start",124,52577,1584.21,116330,1582.75
+TSPB,"List of moves, steepest, edges, random start",125,51528,1656.71,118688,1655.25
+TSPB,"List of moves, steepest, edges, random start",126,53050,1707.04,126538,1705.62
+TSPB,"List of moves, steepest, edges, random start",127,51601,1482.46,120260,1481.04
+TSPB,"List of moves, steepest, edges, random start",128,53137,1673.33,122615,1671.88
+TSPB,"List of moves, steepest, edges, random start",129,53018,1830.38,125753,1828.92
+TSPB,"List of moves, steepest, edges, random start",130,51734,1606.29,124966,1604.75
+TSPB,"List of moves, steepest, edges, random start",131,53151,1813.25,131255,1811.83
+TSPB,"List of moves, steepest, edges, random start",132,52304,1898.5,128107,1897
+TSPB,"List of moves, steepest, edges, random start",133,51565,1804.21,120251,1802.75
+TSPB,"List of moves, steepest, edges, random start",134,52186,1743.79,124174,1742.33
+TSPB,"List of moves, steepest, edges, random start",135,52486,1816.21,129680,1814.79
+TSPB,"List of moves, steepest, edges, random start",136,53339,1666.5,123394,1665.08
+TSPB,"List of moves, steepest, edges, random start",137,52300,1739.25,113184,1737.79
+TSPB,"List of moves, steepest, edges, random start",138,52664,1502.5,125759,1501.04
+TSPB,"List of moves, steepest, edges, random start",139,52498,1633.38,118689,1631.92
+TSPB,"List of moves, steepest, edges, random start",140,52882,1612.12,122607,1610.67
+TSPB,"List of moves, steepest, edges, random start",141,51021,1603.04,127322,1601.58
+TSPB,"List of moves, steepest, edges, random start",142,51523,1721.33,116321,1719.88
+TSPB,"List of moves, steepest, edges, random start",143,52941,1620.58,124970,1619.17
+TSPB,"List of moves, steepest, edges, random start",144,53150,1443.29,114749,1441.62
+TSPB,"List of moves, steepest, edges, random start",145,53393,1563.96,109261,1562.5
+TSPB,"List of moves, steepest, edges, random start",146,51226,1788.54,133611,1787.08
+TSPB,"List of moves, steepest, edges, random start",147,52758,1696.62,122612,1695.17
+TSPB,"List of moves, steepest, edges, random start",148,53107,1783.58,121825,1782.12
+TSPB,"List of moves, steepest, edges, random start",149,51014,1763.67,132829,1761.83
+TSPB,"List of moves, steepest, edges, random start",150,52282,1679.21,132824,1677.79
+TSPB,"List of moves, steepest, edges, random start",151,51592,1685.75,124971,1684.29
+TSPB,"List of moves, steepest, edges, random start",152,54770,1593.38,122611,1591.92
+TSPB,"List of moves, steepest, edges, random start",153,52564,1606.83,117115,1605.38
+TSPB,"List of moves, steepest, edges, random start",154,51847,1787.54,130480,1785.88
+TSPB,"List of moves, steepest, edges, random start",155,53961,1818.08,125752,1816.54
+TSPB,"List of moves, steepest, edges, random start",156,52131,1700.12,127324,1698.62
+TSPB,"List of moves, steepest, edges, random start",157,51853,1662.21,125753,1660.71
+TSPB,"List of moves, steepest, edges, random start",158,53521,1792.71,123401,1791.21
+TSPB,"List of moves, steepest, edges, random start",159,53257,1700.54,121031,1699.04
+TSPB,"List of moves, steepest, edges, random start",160,52123,1716,121037,1714.5
+TSPB,"List of moves, steepest, edges, random start",161,52462,1675.54,121043,1674.12
+TSPB,"List of moves, steepest, edges, random start",162,52114,1690.42,124180,1688.83
+TSPB,"List of moves, steepest, edges, random start",163,52331,1755.25,129680,1753.79
+TSPB,"List of moves, steepest, edges, random start",164,53350,1779.42,121040,1777.92
+TSPB,"List of moves, steepest, edges, random start",165,53208,1758,119477,1756.54
+TSPB,"List of moves, steepest, edges, random start",166,51898,1796.46,135185,1795
+TSPB,"List of moves, steepest, edges, random start",167,53075,1515.96,124185,1514.5
+TSPB,"List of moves, steepest, edges, random start",168,52889,1666.71,128904,1665.29
+TSPB,"List of moves, steepest, edges, random start",169,51233,1735.04,129685,1733.58
+TSPB,"List of moves, steepest, edges, random start",170,53030,1953.75,128106,1952.33
+TSPB,"List of moves, steepest, edges, random start",171,53214,1767.12,113961,1765.67
+TSPB,"List of moves, steepest, edges, random start",172,53165,1655.42,121039,1654
+TSPB,"List of moves, steepest, edges, random start",173,52548,1656.17,117896,1654.67
+TSPB,"List of moves, steepest, edges, random start",174,51878,1775.25,124968,1773.83
+TSPB,"List of moves, steepest, edges, random start",175,52367,1741.08,124184,1739.67
+TSPB,"List of moves, steepest, edges, random start",176,52445,1743.46,119467,1741.96
+TSPB,"List of moves, steepest, edges, random start",177,52816,1717.38,118685,1715.92
+TSPB,"List of moves, steepest, edges, random start",178,52687,1739.71,129683,1738.29
+TSPB,"List of moves, steepest, edges, random start",179,53898,1685.83,119470,1684.33
+TSPB,"List of moves, steepest, edges, random start",180,52284,1578.42,118683,1577
+TSPB,"List of moves, steepest, edges, random start",181,53196,1738.79,128894,1737.33
+TSPB,"List of moves, steepest, edges, random start",182,53149,1673.83,130478,1672.38
+TSPB,"List of moves, steepest, edges, random start",183,50148,1649.88,123398,1648.29
+TSPB,"List of moves, steepest, edges, random start",184,51300,1678.38,121824,1676.92
+TSPB,"List of moves, steepest, edges, random start",185,52327,1738.79,128118,1737.38
+TSPB,"List of moves, steepest, edges, random start",186,53299,1473.88,118694,1472.42
+TSPB,"List of moves, steepest, edges, random start",187,52829,1802.88,123399,1801.33
+TSPB,"List of moves, steepest, edges, random start",188,52213,1705.5,114757,1703.92
+TSPB,"List of moves, steepest, edges, random start",189,53790,1847.33,117896,1845.88
+TSPB,"List of moves, steepest, edges, random start",190,51948,1813.75,135967,1812.25
+TSPB,"List of moves, steepest, edges, random start",191,53092,1446.79,116325,1445.33
+TSPB,"List of moves, steepest, edges, random start",192,52758,1822.79,131250,1821.38
+TSPB,"List of moves, steepest, edges, random start",193,51135,1719.88,129681,1718.42
+TSPB,"List of moves, steepest, edges, random start",194,51321,1678.25,125754,1676.83
+TSPB,"List of moves, steepest, edges, random start",195,52050,1555.96,128116,1554.5
+TSPB,"List of moves, steepest, edges, random start",196,53118,1722.79,124965,1721.33
+TSPB,"List of moves, steepest, edges, random start",197,53603,1779.33,133614,1777.79
+TSPB,"List of moves, steepest, edges, random start",198,52473,1768.12,117900,1766.54
+TSPB,"List of moves, steepest, edges, random start",199,52177,1726.46,132826,1725.04
